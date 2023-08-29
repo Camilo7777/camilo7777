@@ -1,18 +1,18 @@
-### Hi there 👋
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
+public class Perfil {
 
-<!--
-**Camilo7777/camilo7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    private final List<String> conocimientos = new ArrayList<>();
 
-Here are some ideas to get you started:
+    public void saludo() {
+        System.out.println("Bienvanido !!");
+        System.out.println("Mi nombtre es Juan Camilo Escobar Campuzano");
+    }
 
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private List<String> presentacion(){
+        conocimientos.add("Java");
+        conocimientos.add("Spring Boot");
+        conocimientos.add("Sql");
+        conocimientos.add("GitHub");
+        
+        return conocimientos;
+    }
+}

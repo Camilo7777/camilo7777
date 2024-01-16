@@ -1,6 +1,6 @@
 # Desarrollador backend con conocimiento en frontend
 
-![Imagen de perfil](url_de_tu_imagen.jpg)
+![Imagen de perfil](java.jpg)
 
 ¡Bienvanido!
 

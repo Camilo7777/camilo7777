@@ -1,7 +1,5 @@
 # Desarrollador backend con conocimiento en frontend
 
-![Imagen de perfil](java.jpg)
-
 ¡Bienvenido!
 
 Mi nombre es Juan Camilo Escobar Campuzano. Soy un desarrollador apasionado con experiencia en diversas tecnologías. Aquí tienes una lista de mis conocimientos:
@@ -17,3 +15,4 @@ Mi nombre es Juan Camilo Escobar Campuzano. Soy un desarrollador apasionado con 
 - **DevOps**
 
    
+![Imagen de perfil](java.jpg)

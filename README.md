@@ -1,39 +1,30 @@
-import java.util.List;
+# Perfil de Juan Camilo Escobar Campuzano
 
-public class Main {
+![Imagen de perfil](url_de_tu_imagen.jpg)
 
-    public static void main(String[] args) {
-        Perfil miPerfil = new Perfil();
-        miPerfil.saludo();
-        
-        List<String> listaConocimientos = miPerfil.presentacion();
-        System.out.println("Mis conocimientos son:");
-        for (String conocimiento : listaConocimientos) {
-            System.out.println("- " + conocimiento);
-        }
-    }
-}
+¡Bienvanido!
 
-public class Perfil {
+Mi nombre es Juan Camilo Escobar Campuzano. Soy un desarrollador apasionado con experiencia en diversas tecnologías. Aquí tienes una lista de mis conocimientos:
 
-    private final List<String> conocimientos = new ArrayList<>();
+- **Java**
+- **Spring Boot**
+- **SQL**
+- **GitHub**
+- **Angular**
+- **HTML**
+- **CSS**
+- **AWS**
+- **DevOps**
 
-    public void saludo() {
-        System.out.println("Bienvanido !!");
-        System.out.println("Mi nombtre es Juan Camilo Escobar Campuzano");
-    }
+## Proyectos Destacados
 
-    private List<String> presentacion(){
-        conocimientos.add("Java");
-        conocimientos.add("Spring Boot");
-        conocimientos.add("Sql");
-        conocimientos.add("GitHub");
-        conocimientos.add("Angular");
-        conocimientos.add("Html");
-        conocimientos.add("Css");
-        conocimientos.add("Aws");
-        conocimientos.add("Devops");
-        
-        return conocimientos;
-    }
-}
+### Proyecto 1: [Nombre del Proyecto](enlace_al_proyecto)
+Breve descripción del proyecto y su tecnología principal.
+
+![Imagen del Proyecto 1](url_de_la_imagen_proyecto1.jpg)
+
+### Proyecto 2: [Nombre del Proyecto](enlace_al_proyecto)
+Breve descripción del proyecto y su tecnología principal.
+
+![Imagen del Proyecto 2](url_de_la_imagen_proyecto2.jpg)
+   

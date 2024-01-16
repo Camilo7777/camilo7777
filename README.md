@@ -1,4 +1,4 @@
-# Perfil de Juan Camilo Escobar Campuzano
+# Desarrollador backend con conocimiento en frontend
 
 ![Imagen de perfil](url_de_tu_imagen.jpg)
 

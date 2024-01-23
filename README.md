@@ -1,8 +1,5 @@
-# Perfil Profesional
 
-¡Hola! Soy [Juan Camilo Escobar Campuzano], un apasionado desarrollador con una profunda pasión por enfrentar desafíos y encontrar soluciones efectivas. Mi enfoque en el trabajo se caracteriza por ser ordenado y responsable, y disfruto de la investigación exhaustiva para fomentar el aprendizaje autónomo. Soy una persona adaptable, capaz de trabajar en equipo y comunicarme de manera asertiva.
-
-## Experiencia y Habilidades Clave
+¡Hola! Soy Juan Camilo Escobar Campuzano, un apasionado desarrollador con una profunda pasión por enfrentar desafíos y encontrar soluciones efectivas. Mi enfoque en el trabajo se caracteriza por ser ordenado y responsable, y disfruto de la investigación exhaustiva para fomentar el aprendizaje autónomo. Soy una persona adaptable, capaz de trabajar en equipo y comunicarme de manera asertiva.
 
 ### Lenguajes y Tecnologías
 - Amplios conocimientos en **Java** (programación orientada a objetos y programación funcional).
@@ -21,9 +18,6 @@
 ### Metodologías y Prácticas de Desarrollo
 - Familiarizado con metodologías ágiles como **Scrum**.
 - Experiencia en el ciclo de vida del software con **Azure DevOps**.
-
-### Nube y Servicios Web
-- Experiencia en la nube utilizando **AWS** en servicios como **Lambda**, **EC2**, **RDS**, **EKS**, entre otros.
 
 ## Tecnologías
 
